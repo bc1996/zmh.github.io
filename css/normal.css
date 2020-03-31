@@ -5,6 +5,8 @@
 @font-face {
  font-family: 'myfont';
  src: url('../font/myfont.TTF');
+ src: url('../font/myfont.eot');
+ src: url('../font/myfont.woff');
 }
 .all{
 	height:1300px;
